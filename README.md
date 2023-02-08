@@ -32,7 +32,7 @@ a. Below, I used the 'Is Within Business Hours' in a condition in the 'Chat with
 
 ![image](https://user-images.githubusercontent.com/37139091/217397309-14060ddc-0e70-425f-8c03-584fb3537257.png)
 
-b. If BH is true, we redirect to another dialog to check agent availability (there is another repository demonstrating the flow logic used for check agent availability)
+b. If BH is true, we redirect to another dialog to check agent availability (there is another repository demonstrating the flow logic used for check agent availability - https://github.com/fernandasancho/EinsteinBot_Check_Agent_Availability_Flow/blob/main/README.md)
 
 ![image](https://user-images.githubusercontent.com/37139091/217397525-347f1e6b-0330-4c40-b04e-01ea7f49e190.png)
 
