@@ -1,5 +1,5 @@
 # Eintein-Bot-Check-Business-Hours POC
-- When customers need to be handed over from the bot to an agent, we only want to do this
+When customers need to be handed over from the bot to an agent, we only want to do this
 inside of business hours. When outside of business hours we want to apply different logic which
 allows us to create a case based on a question asked by the bot.
 
