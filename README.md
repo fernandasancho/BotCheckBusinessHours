@@ -7,6 +7,9 @@ Inside of Salesforce we have the ability to store Business Hours.
 By using Business Hours implementation, there is no need to update or modify the bot when business hours change.
 The bot will automatically adjust to what has been configured.
 
+Apex class CheckWithinBusinessHours facilitates checking whether the current time is within business hours based on a provided business hours name. 
+It is intended for use within a bot system to ensure that customer handovers to agents occur only during operational hours.
+
 1. Go to Setup < Quick find < Business Hours:
 
 ![image](https://user-images.githubusercontent.com/37139091/217378766-7f30b7b0-9f8d-497e-b542-2fbc722f97ae.png)
